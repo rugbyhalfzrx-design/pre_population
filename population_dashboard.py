@@ -7,7 +7,6 @@ Streamlit Dashboard for Japan Population Dynamics Analysis
 使用方法:
 streamlit run population_dashboard.py
 
-Author: Claude Code
 Date: 2025-08-21
 """
 
